@@ -43,12 +43,6 @@ A weather dashboard featuring:
 
 ---
 
-## 📈 GitHub Stats
-
-![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushantshinde7&show_icons=true&theme=react)
-
----
-
 ## 🧠 Currently Working On
 
 - Expanding into full-stack with backend development (Node.js, Express)
