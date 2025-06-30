@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Sushant Shinde
 
-<!--
-**sushantshinde7/sushantshinde7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate Front-End Developer & Computer Engineering Graduate (2022, Mumbai University)
 
-Here are some ideas to get you started:
+💡 I love building interactive and responsive web applications using:
+- React.js | JavaScript (ES6) | HTML | CSS | Bootstrap
+- Firebase | REST APIs | Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 My Featured Projects:
+- 🧭 [To-Do App](https://sushantshinde7.github.io/To-Do-App/) — Modular structure, theme switcher, toast alerts
+- 📺 [Netflix Clone](https://netflix-react-clone-seven.vercel.app/) — React + Firebase + TMDB API
+- ⛅ [Weather App](https://weather-app-react-dusky.vercel.app/) — API-based live weather info
+
+📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/sushantshinde7) | [GitHub](https://github.com/sushantshinde7)
+
+🔧 Currently exploring:
+- Full-Stack Development (MERN)
+- Backend with Node.js & Express
+- Advanced React Patterns
+
+📝 Learning in public through open-source and personal projects!
