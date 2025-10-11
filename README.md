@@ -50,7 +50,7 @@ A mini Netflix replica built using React & Firebase Authentication.
 
 **🧩 Tech Highlights:**
 - React.js + Firebase Auth  
-- TMDB API for real movie data  
+- TMDB API for dynamic movie content  
 - Responsive UI with Styled Components  
 
 ---
@@ -101,7 +101,7 @@ React, Vite, Context API, Hooks, and modular component design.
 
 ## 🎯 Goals for 2025
 - 🚀 Build and deploy 2 full-stack applications  
-- 🤝 Contribute to open source projects  
+- 🤝 Contribute to open-source projects  
 - 💼 Land a full-time role as a React / Frontend Developer  
 - ✍️ Write technical blogs & share tutorials  
 - 🌍 Keep learning and improving daily  
@@ -120,8 +120,10 @@ React, Vite, Context API, Hooks, and modular component design.
   <a href="https://www.instagram.com/_sushantshinde/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="mailto:sushantshinde2024@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
 
 ---
 
