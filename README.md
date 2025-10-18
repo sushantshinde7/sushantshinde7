@@ -141,6 +141,6 @@ React, Vite, Context API, Hooks, and modular component design.
 ---
 
 <p align="center">
-  ✨ <em>"I believe in learning by doing, sharing knowledge, and helping others grow in tech."</em> ✨
+  ✨ <em>"I believe in learning by doing, sharing knowledge, and helping others grow in tech"</em> ✨
 </p>
 
