@@ -10,21 +10,23 @@ I enjoy transforming design ideas into smooth, interactive, and responsive UIs u
 
 ### 💡 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=mysql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?logo=css3&logoColor=white&style=flat)        <!-- darker blue -->
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=flat)  <!-- yellow -->
+![C](https://img.shields.io/badge/C-00979D?logo=c&logoColor=white&style=flat)                <!-- teal/cyan -->
+![SQL](https://img.shields.io/badge/SQL-FF5733?logo=mysql&logoColor=white&style=flat)        <!-- orange/red -->
+![MySQL](https://img.shields.io/badge/MySQL-00ACC1?logo=mysql&logoColor=white&style=flat)    <!-- teal/light blue -->
+
 
 ### ⚛️ Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap\&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black)
-![AJAX](https://img.shields.io/badge/AJAX-0078D7?logo=javascript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+![AJAX](https://img.shields.io/badge/AJAX-0078D7?logo=javascript&logoColor=white&style=flat)
 
 ### 🧰 Tools & Platforms
 
@@ -115,7 +117,10 @@ An intuitive dashboard providing live weather updates using the OpenWeatherMap A
 **Skills:** Software Development • Problem Solving • Version Control
 
 ---
+### 🌐 Languages Known
+English • Hindi • Marathi
 
+---
 ## 🧠 Currently Working On
 
 * Expanding into **full-stack development** (Node.js, Express.js, MongoDB)
@@ -141,28 +146,29 @@ I plan to share my learnings through short dev blogs, walkthroughs, and UI/UX di
 ---
 
 ## 🎯 Goals for 2025
+- 🚀 Build and deploy 2 full-stack applications  
+- 🤝 Contribute to open-source projects  
+- 💼 Land a full-time role as a Front-End / React Developer  
+- ✍️ Write technical blogs and share tutorials  
 
-* 🚀 Build and deploy 2 full-stack applications
-* 🤝 Contribute to open-source projects
-* 💼 Land a full-time role as a React / Frontend Developer
-* ✍️ Write technical blogs & share tutorials
-* 🌍 Keep learning and improving daily
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushantshinde7\&show_icons=true\&theme=tokyonight\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantshinde7\&layout=compact\&theme=tokyonight\&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushantshinde7\&theme=tokyonight\&hide_border=true)
+![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushantshinde7\&show_icons=true\&theme=ocean_dark\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantshinde7\&layout=compact\&theme=ocean_dark\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushantshinde7\&theme=ocean_darkt\&hide_border=true)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/sushantshinde7-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sushantshinde7/)
-[![GitHub](https://img.shields.io/badge/GitHub-sushantshinde7-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sushantshinde7)
-[![Instagram](https://img.shields.io/badge/Instagram-_sushantshinde-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_sushantshinde/)
-[![Email](https://img.shields.io/badge/Email-sushantshinde2024@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sushantshinde2024@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushantshinde7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sushantshinde7)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sushantshinde2024@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_sushantshinde/)
+
+
 
 
