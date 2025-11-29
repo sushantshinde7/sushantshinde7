@@ -36,11 +36,12 @@ I enjoy transforming design ideas into smooth, interactive, and responsive UIs u
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ### 🌱 Currently Exploring
 
 Node.js • Express.js • MongoDB • REST APIs
-🧩 Also Exploring: TypeScript • Tailwind CSS • Next.js
+🧩 Also Exploring: TypeScript • Next.js
 
 ---
 
@@ -55,10 +56,13 @@ A unified time-based utility app built with **React + Vite**, featuring a sleek 
 * ⏱️ Stopwatch — Lap tracking, reset, circular timer UI
 * 🕓 World Clock — Display multiple cities with real-time updates
 * ⏳ Timer — Countdown timer with custom durations and animations
+* ⏰ Alarm — Create, edit, and manage alarms with local saving (alert sound coming soon)
 
 **🧩 Upcoming Modules:**
 
-* ⏰ Alarm — Set, edit, and manage alarms with sound alerts
+* 🔔 Alarm enhancements (sound alerts, notifications, repeat options)
+* 🎨 Theme customization
+* 📌 Drag-and-drop city clocks
 
 **⚙️ Tech Stack:** React, Vite, Context API, Hooks, and modular component design.
 💡 *Goal:* Refine UX with drag-and-drop city clocks, notifications, and customizable themes.
@@ -158,7 +162,7 @@ I plan to share my learnings through short dev blogs, walkthroughs, and UI/UX di
 
 ![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushantshinde7\&show_icons=true\&theme=ocean_dark\&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantshinde7\&layout=compact\&theme=ocean_dark\&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushantshinde7\&theme=ocean_darkt\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushantshinde7\&theme=ocean_dark\&hide_border=true)
 
 ---
 
