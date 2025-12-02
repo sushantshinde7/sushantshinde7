@@ -71,14 +71,14 @@ A unified time-based utility app built with **React + Vite**, featuring a sleek 
 
 ### 🧭 [Modular To-Do App](https://github.com/sushantshinde7/modular-todo-js) | [Live Demo](#)
 
-A modular and theme-rich task management app built with React.
+A clean, theme-rich, offline-ready To-Do app with ES Modules and smooth UI interactions.
 
-**✨ Features:**
+✨ Highlights:
 
-* Create, delete, and mark tasks complete
-* Light/Dark mode toggle
-* Multiple UI themes
-* Toast notifications for actions
+* Add, edit, delete, pin tasks
+* Light/Dark mode + color themes
+* Animated toasts & polished UI micro-interactions
+* Offline support (PWA-enabled)
 
 ---
 
