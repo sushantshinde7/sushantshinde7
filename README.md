@@ -160,10 +160,9 @@ I plan to share my learnings through short dev blogs, walkthroughs, and UI/UX di
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=sushantshinde7&show_icons=true&theme=ocean_dark)
-![Top Langs](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=sushantshinde7&layout=compact&theme=ocean_dark)
-![Streak](https://streak-stats.demolab.com?user=sushantshinde7&theme=ocean-dark)
-
+![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushantshinde7\&show_icons=true\&theme=ocean_dark\&hide_border=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantshinde7\&layout=compact\&theme=ocean_dark\&hide_border=true) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushantshinde7\&theme=ocean_dark\&hide_border=true)
 
 ---
 
