@@ -47,25 +47,18 @@ Node.js • Express.js • MongoDB • REST APIs
 
 ## 🌟 Featured Projects
 
-### 🕒 [React Time Tools](https://github.com/sushantshinde7/react-time-tools)
+### 🕒 [React Time Tools](https://github.com/sushantshinde7/react-time-tools) | [Live Demo](https://react-time-tools.vercel.app/)
 
-A unified time-based utility app built with **React + Vite**, featuring a sleek design and tabbed navigation.
+A production-ready **time management web app** built with **React + Vite**, featuring alarms, timers, stopwatch, and world clocks with persistent settings.
 
-**✅ Completed Modules:**
+**✨ Highlights:**
+- ⏰ Alarm system with repeat options, custom ringtones & animated modal
+- ⏱️ Stopwatch with lap tracking and smooth UI transitions
+- ⏳ Timer with custom durations and visual feedback
+- 🕓 World clock with real-time multi-city support
 
-* ⏱️ Stopwatch — Lap tracking, reset, circular timer UI
-* 🕓 World Clock — Display multiple cities with real-time updates
-* ⏳ Timer — Countdown timer with custom durations and animations
-* ⏰ Alarm — Create, edit, and manage alarms with local saving (alert sound coming soon)
+**⚙️ Tech Stack:** React.js, Vite, Context API, Hooks, CSS Modules, LocalStorage
 
-**🧩 Upcoming Modules:**
-
-* 🔔 Alarm enhancements (sound alerts, notifications, repeat options)
-* 🎨 Theme customization
-* 📌 Drag-and-drop city clocks
-
-**⚙️ Tech Stack:** React, Vite, Context API, Hooks, and modular component design.
-💡 *Goal:* Refine UX with drag-and-drop city clocks, notifications, and customizable themes.
 
 ---
 
