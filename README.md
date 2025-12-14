@@ -62,7 +62,7 @@ A production-ready **time management web app** built with **React + Vite**, feat
 
 ---
 
-### 🧭 [Modular To-Do App](https://github.com/sushantshinde7/modular-todo-js) | [Live Demo](#)
+### 🧭 [Modular To-Do App](https://github.com/sushantshinde7/modular-todo-js) | [Live Demo](https://sushantshinde7.github.io/modular-todo-js/)
 
 A clean, theme-rich, offline-ready To-Do app with ES Modules and smooth UI interactions.
 
@@ -75,7 +75,7 @@ A clean, theme-rich, offline-ready To-Do app with ES Modules and smooth UI inter
 
 ---
 
-### 📺 [Netflix Clone](https://github.com/sushantshinde7/netflix-clone-react-firebase) | [Live Demo](#)
+### 📺 [Netflix Clone](https://github.com/sushantshinde7/netflix-clone-react-firebase) | [Live Demo](https://my-netlfix-react-clone.netlify.app)
 
 A mini Netflix replica built using React & Firebase Authentication.
 
@@ -87,7 +87,8 @@ A mini Netflix replica built using React & Firebase Authentication.
 
 ---
 
-### ⛅ [Weather App](https://github.com/sushantshinde7/Weather-App) | [Live Demo](#)
+### ⛅ [Weather App](https://github.com/sushantshinde7/Weather-App) | [Live Demo](https://sushantshinde7.github.io/Weather-App/)
+
 
 An intuitive dashboard providing live weather updates using the OpenWeatherMap API.
 
