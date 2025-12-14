@@ -1,42 +1,41 @@
 # 👋 Hey there, I'm [Sushant Shinde](https://github.com/sushantshinde7)
 
-🎓 **Computer Engineering Graduate (2022)** — University of Mumbai
-💻 **Aspiring Front-End Developer** passionate about crafting user-friendly, accessible, and performance-driven web experiences.
-I enjoy transforming design ideas into smooth, interactive, and responsive UIs using React, JavaScript, and CSS — while continuously learning new tools and technologies to improve my craft.
+🎓       **Computer Engineering Graduate** (2022) — University of Mumbai.
+ **Front-End Developer specializing** in React, JavaScript, and modern UI development.
+I build user-friendly, accessible, and performance-driven web experiences, transforming design ideas into smooth, interactive, and responsive interfaces using React, JavaScript, and CSS. I continuously refine my skills by adopting modern tools, improving UX patterns, and optimizing front-end performance.
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 💡 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?logo=css3&logoColor=white&style=flat)        <!-- darker blue -->
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=flat)  <!-- yellow -->
-![C](https://img.shields.io/badge/C-00979D?logo=c&logoColor=white&style=flat)                <!-- teal/cyan -->
-![SQL](https://img.shields.io/badge/SQL-FF5733?logo=mysql&logoColor=white&style=flat)        <!-- orange/red -->
-![MySQL](https://img.shields.io/badge/MySQL-00ACC1?logo=mysql&logoColor=white&style=flat)    <!-- teal/light blue -->
+![JavaScript](https://img.shields.io/badge/JavaScript-2F2F2F?logo=javascript&logoColor=F7DF1E&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-8B3A3A?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1E3A5F?logo=css3&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-355E3B?logo=python&logoColor=FFD43B&style=flat)
+![C](https://img.shields.io/badge/C-2C6E7F?logo=c&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/SQL-5A2A27?logo=mysql&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-1F6F8B?logo=mysql&logoColor=white&style=flat)
 
 
 ### ⚛️ Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![AJAX](https://img.shields.io/badge/AJAX-0078D7?logo=javascript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-3B2F63?logo=bootstrap&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F4C5C?logo=tailwindcss&logoColor=38BDF8&style=flat)
+![jQuery](https://img.shields.io/badge/jQuery-1C3D5A?logo=jquery&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-4A3F2A?logo=firebase&logoColor=FFCA28&style=flat)
+![AJAX](https://img.shields.io/badge/AJAX-3A3A3A?logo=javascript&logoColor=white&style=flat)
 
 ### 🧰 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2B2B2B?logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-121212?logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-1F2937?logo=visualstudiocode&logoColor=3B82F6)
+![npm](https://img.shields.io/badge/npm-3A1F1F?logo=npm&logoColor=CB3837)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0E4F4F?logo=netlify&logoColor=00C7B7)
+![Figma](https://img.shields.io/badge/Figma-2C2C2C?logo=figma&logoColor=F24E1E)
 
 ### 🌱 Currently Exploring
 
