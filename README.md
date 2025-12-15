@@ -74,7 +74,7 @@ A clean, theme-rich, offline-ready To-Do app with ES Modules and smooth UI inter
 
 ---
 
-### 📺 [Netflix Clone](https://github.com/sushantshinde7/netflix-clone-react-firebase) | [Live Demo](https://my-netlfix-react-clone.netlify.app)
+### 📺 [Netflix Clone](https://github.com/sushantshinde7/netflix-clone-react-firebase) | [Live Demo](https://my-netflix-clone-react.vercel.app/)
 
 A mini Netflix replica built using React & Firebase Authentication.
 
