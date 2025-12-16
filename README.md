@@ -50,52 +50,56 @@ Node.js • Express.js • MongoDB • REST APIs
 
 A production-ready **time management web app** built with **React + Vite**, featuring alarms, timers, stopwatch, and world clocks with persistent settings.
 
-**✨ Highlights:**
-- ⏰ Alarm system with repeat options, custom ringtones & animated modal
-- ⏱️ Stopwatch with lap tracking and smooth UI transitions
-- ⏳ Timer with custom durations and visual feedback
-- 🕓 World clock with real-time multi-city support
+**Highlights:**
+- Alarm system with repeat options, custom ringtones, and animated modal
+- Stopwatch with lap tracking, precise time calculations, and smooth UI transitions
+- Timer with custom durations, start/pause controls, and clear visual feedback
+- World clock with real-time multi-city support and live timezone synchronization
 
-**⚙️ Tech Stack:** React.js, Vite, Context API, Hooks, CSS Modules, LocalStorage
-
+**Tech Stack:** React.js, Vite, Context API, Hooks, CSS Modules, LocalStorage
 
 ---
 
 ### 🧭 [Modular To-Do App](https://github.com/sushantshinde7/modular-todo-js) | [Live Demo](https://sushantshinde7.github.io/modular-todo-js/)
 
-A clean, theme-rich, offline-ready To-Do app with ES Modules and smooth UI interactions.
+A clean, theme-rich, offline-ready to-do app built using modular JavaScript architecture.
 
-✨ Highlights:
+**Highlights:**
+- Add, edit, delete, and pin tasks with a structured modular setup
+- Light and dark modes with customizable color themes
+- Smooth UI interactions with animated toasts and transitions
+- Offline support with local storage and PWA capabilities
 
-* Add, edit, delete, pin tasks
-* Light/Dark mode + color themes
-* Animated toasts & polished UI micro-interactions
-* Offline support (PWA-enabled)
+**Tech Stack:** JavaScript (ES Modules), HTML5, CSS3, LocalStorage, PWA APIs
 
 ---
 
 ### 📺 [Netflix Clone](https://github.com/sushantshinde7/netflix-clone-react-firebase) | [Live Demo](https://my-netflix-clone-react.vercel.app/)
 
-A mini Netflix replica built using React & Firebase Authentication.
+A Netflix-inspired streaming UI demonstrating authentication, routing, and dynamic content loading.
 
-**🧩 Tech Highlights:**
+**Highlights:**
+- Email and password authentication using Firebase with session persistence
+- Dynamic movie and TV content powered by the TMDB API
+- Categorized content rows inspired by Netflix’s layout
+- Dedicated player page with route-based navigation
 
-* React.js + Firebase Auth
-* TMDB API for dynamic movie content
-* Responsive UI with Styled Components
+**Tech Stack:** React.js, Vite, Firebase Authentication, TMDB API, React Router, CSS Modules
 
 ---
 
 ### ⛅ [Weather App](https://github.com/sushantshinde7/Weather-App) | [Live Demo](https://sushantshinde7.github.io/Weather-App/)
 
+A simple and responsive weather dashboard providing real-time climate updates.
 
-An intuitive dashboard providing live weather updates using the OpenWeatherMap API.
+**Highlights:**
+- Search weather details by city name
+- Displays temperature, weather condition, and humidity in real time
+- Dynamic icons based on weather conditions
+- Fully responsive layout optimized for mobile and desktop
 
-**🌈 Features:**
+**Tech Stack:** JavaScript, HTML5, CSS3, OpenWeatherMap API, Fetch API
 
-* Real-time weather by city search
-* Dynamic icons and temperature data
-* Mobile-friendly and visually appealing UI
 
 ---
 
@@ -115,7 +119,7 @@ An intuitive dashboard providing live weather updates using the OpenWeatherMap A
 
 ---
 ### 🌐 Languages Known
-English • Hindi • Marathi
+English • Marathi • Hindi 
 
 ---
 ## 🧠 Currently Working On
