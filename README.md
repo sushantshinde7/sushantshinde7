@@ -100,6 +100,20 @@ A simple and responsive weather dashboard providing real-time climate updates.
 
 **Tech Stack:** JavaScript, HTML5, CSS3, OpenWeatherMap API, Fetch API
 
+---
+
+### 💼 [Personal Portfolio](https://github.com/sushantshinde7/sushant-portfolio)
+
+A personal portfolio website built using **React and Vite**, structured to present profile information, skills, and project work through modular UI components and clean layouts.
+
+**Highlights:**
+- Component-based architecture with reusable sections
+- Clearly structured portfolio sections (Hero, About, Skills, Projects, Contact)
+- Centralized styling for consistent UI
+- Responsive layout across screen sizes
+- Lightweight icon usage with Lucide Icons
+
+**Tech Stack:** React.js, Vite, CSS, Lucide Icons
 
 ---
 
@@ -151,7 +165,6 @@ I plan to share my learnings through short dev blogs, walkthroughs, and UI/UX di
 - 🤝 Contribute to open-source projects  
 - 💼 Land a full-time role as a Front-End / React Developer  
 - ✍️ Write technical blogs and share tutorials  
-
 
 ---
 
