@@ -37,7 +37,7 @@ I build user-friendly, accessible, and performance-driven web experiences, trans
 ![Netlify](https://img.shields.io/badge/Netlify-0E4F4F?logo=netlify&logoColor=00C7B7)
 ![Figma](https://img.shields.io/badge/Figma-2C2C2C?logo=figma&logoColor=F24E1E)
 
-### 🌱 Currently Exploring
+### 🌱 Currently - exploring
 
 Node.js • Express.js • MongoDB • REST APIs
 🧩 Also Exploring: TypeScript • Next.js
