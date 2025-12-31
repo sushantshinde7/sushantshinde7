@@ -113,7 +113,7 @@ A personal portfolio website built using **React and Vite**, structured to prese
 - Responsive layout across screen sizes
 - Lightweight icon usage with Lucide Icons
 
-**Tech Stack:** React.js, Vite, CSS, Lucide Icons
+**Tech Stack:** React.js, Vite, CSS, Lucide Icons, Framer motion
 
 ---
 
