@@ -102,7 +102,7 @@ A simple and responsive weather dashboard providing real-time climate updates.
 
 ---
 
-### 💼 [Personal Portfolio](https://github.com/sushantshinde7/sushant-portfolio)
+### 💼 [Personal Portfolio](https://github.com/sushantshinde7/sushant-portfolio) | https://sushantdev.vercel.app/
 
 A personal portfolio website built using **React and Vite**, structured to present profile information, skills, and project work through modular UI components and clean layouts.
 
