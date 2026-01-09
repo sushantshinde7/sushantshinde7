@@ -160,7 +160,7 @@ I plan to share my learnings through short dev blogs, walkthroughs, and UI/UX di
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 - 🚀 Build and deploy 2 full-stack applications  
 - 🤝 Contribute to open-source projects  
 - 💼 Land a full-time role as a Front-End / React Developer  
