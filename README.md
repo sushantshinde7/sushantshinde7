@@ -182,7 +182,7 @@ I plan to share my learnings through short dev blogs, walkthroughs, and UI/UX di
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sushantshinde7)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sushantshinde2024@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_sushantshinde/)
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=flat&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/sushantshinde7)
+[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=flat&logo=duolingo&logoColor=black)](https://www.duolingo.com/profile/sushantshinde7)
 
 
 
