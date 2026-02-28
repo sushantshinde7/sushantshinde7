@@ -57,10 +57,11 @@ I focus on subtle motion, intentional spacing, clean component structure, and pe
 A production-ready **time management web app** built with **React + Vite**, featuring alarms, timers, stopwatch, and world clocks with persistent settings.
 
 **Highlights:**
-- Alarm system with repeat options, custom ringtones, and animated modal
-- Stopwatch with lap tracking, precise time calculations, and smooth UI transitions
-- Timer with custom durations, start/pause controls, and clear visual feedback
-- World clock with real-time multi-city support and live timezone synchronization
+- Modular time utilities built with reusable hooks and structured component logic
+- Persistent alarm, timer, and clock states synced cleanly with LocalStorage
+- Controlled state updates to prevent unnecessary re-renders
+- Real-time multi-timezone support with accurate time calculations
+- Responsive UI with clear visual feedback and smooth transitions
 
 **Tech Stack:** React.js, Vite, Context API, Hooks, CSS Modules, LocalStorage
 
