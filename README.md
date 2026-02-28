@@ -72,10 +72,11 @@ A production-ready **time management web app** built with **React + Vite**, feat
 A clean, theme-rich, offline-ready to-do app built using modular JavaScript architecture.
 
 **Highlights:**
-- Add, edit, delete, and pin tasks with a structured modular setup
-- Light and dark modes with customizable color themes
-- Smooth UI interactions with animated toasts and transitions
-- Offline support with local storage and PWA capabilities
+- Structured using ES Modules with clear separation of UI, state, and utilities
+- Add, edit, delete, and pin tasks with organized state handling
+- Centralized theme system using CSS variables (light/dark + custom palettes)
+- Offline-ready with LocalStorage persistence and PWA support
+- Smooth UI feedback with lightweight transitions and toast notifications
 
 **Tech Stack:** JavaScript (ES Modules), HTML5, CSS3, LocalStorage, PWA APIs
 
