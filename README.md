@@ -44,6 +44,10 @@ Node.js • Express.js • MongoDB • REST APIs
 
 ---
 
+## 🎨 UI & Interaction Philosophy
+
+I focus on subtle motion, intentional spacing, clean component structure, and performance-first UI patterns — ensuring every interaction feels smooth and purposeful.
+
 ## 🌟 Featured Projects
 
 ### 🕒 [React Time Tools](https://github.com/sushantshinde7/react-time-tools) | [Live Demo](https://react-time-tools.vercel.app/)
