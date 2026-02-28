@@ -87,10 +87,11 @@ A clean, theme-rich, offline-ready to-do app built using modular JavaScript arch
 A Netflix-inspired streaming UI demonstrating authentication, routing, and dynamic content loading.
 
 **Highlights:**
-- Email and password authentication using Firebase with session persistence
-- Dynamic movie and TV content powered by the TMDB API
-- Categorized content rows inspired by Netflix’s layout
-- Dedicated player page with route-based navigation
+- Firebase authentication with protected routes and session persistence
+- Dynamic content rendering powered by TMDB API integration
+- Route-based navigation with dedicated player page
+- Component-driven layout inspired by production streaming platforms
+- Conditional rendering with proper loading and error states
 
 **Tech Stack:** React.js, Vite, Firebase Authentication, TMDB API, React Router, CSS Modules
 
