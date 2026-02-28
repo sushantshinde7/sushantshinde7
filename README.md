@@ -107,11 +107,11 @@ A simple and responsive weather dashboard providing real-time climate updates.
 A personal portfolio website built using **React and Vite**, structured to present profile information, skills, downloadable Resume and project work through modular UI components and clean layouts.
 
 **Highlights:**
-- Component-based architecture with reusable sections
-- Clearly structured portfolio sections (Hero, About, Skills, Projects, Contact)
-- Centralized styling for consistent UI
-- Responsive layout across screen sizes
-- Lightweight icon usage with Lucide Icons
+- Component-based architecture with reusable, well-structured sections
+- Smooth micro-interactions and subtle animations powered by Framer Motion
+- Custom charcoal-based dark theme with strict opaque card design system
+- Clean visual hierarchy with intentional spacing and typography scaling
+- Fully responsive layout optimized for mobile, tablet, and desktop
 
 **Tech Stack:** React.js, Vite, CSS, Lucide Icons, Framer motion
 
