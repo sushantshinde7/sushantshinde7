@@ -102,10 +102,11 @@ A Netflix-inspired streaming UI demonstrating authentication, routing, and dynam
 A simple and responsive weather dashboard providing real-time climate updates.
 
 **Highlights:**
-- Search weather details by city name
-- Displays temperature, weather condition, and humidity in real time
-- Dynamic icons based on weather conditions
-- Fully responsive layout optimized for mobile and desktop
+- Real-time weather data fetching using OpenWeatherMap API
+- Clean async handling with proper error states and input validation
+- Dynamic UI updates based on weather conditions
+- Responsive layout optimized for mobile-first usage
+- Lightweight architecture with clear separation of logic and UI
 
 **Tech Stack:** JavaScript, HTML5, CSS3, OpenWeatherMap API, Fetch API
 
