@@ -82,6 +82,21 @@ A clean, theme-rich, offline-ready to-do app built using modular JavaScript arch
 
 ---
 
+### 💼 [Personal Portfolio](https://github.com/sushantshinde7/sushant-portfolio) | [Live Demo](https://sushantdev.vercel.app/)
+
+A personal portfolio website built using **React and Vite**, structured to present profile information, skills, downloadable Resume and project work through modular UI components and clean layouts.
+
+**Highlights:**
+- Component-based architecture with reusable, well-structured sections
+- Smooth micro-interactions and subtle animations powered by Framer Motion
+- Custom charcoal-based dark theme with strict opaque card design system
+- Clean visual hierarchy with intentional spacing and typography scaling
+- Fully responsive layout optimized for mobile, tablet, and desktop
+
+**Tech Stack:** React.js, Vite, CSS, Lucide Icons, Framer motion
+
+---
+
 ### 📺 [Netflix Clone](https://github.com/sushantshinde7/netflix-clone-react-firebase) | [Live Demo](https://my-netflix-clone-react.vercel.app/)
 
 A Netflix-inspired streaming UI demonstrating authentication, routing, and dynamic content loading.
@@ -112,20 +127,7 @@ A simple and responsive weather dashboard providing real-time climate updates.
 
 ---
 
-### 💼 [Personal Portfolio](https://github.com/sushantshinde7/sushant-portfolio) | [Live Demo](https://sushantdev.vercel.app/)
 
-A personal portfolio website built using **React and Vite**, structured to present profile information, skills, downloadable Resume and project work through modular UI components and clean layouts.
-
-**Highlights:**
-- Component-based architecture with reusable, well-structured sections
-- Smooth micro-interactions and subtle animations powered by Framer Motion
-- Custom charcoal-based dark theme with strict opaque card design system
-- Clean visual hierarchy with intentional spacing and typography scaling
-- Fully responsive layout optimized for mobile, tablet, and desktop
-
-**Tech Stack:** React.js, Vite, CSS, Lucide Icons, Framer motion
-
----
 
 ## 🎓 Certifications
 
