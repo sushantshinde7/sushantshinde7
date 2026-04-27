@@ -52,6 +52,21 @@ I focus on subtle motion, intentional spacing, clean component structure, and pe
 
 ## 🌟 Featured Projects
 
+### 📊 [Finance Insights Dashboard](https://github.com/sushantshinde7/finance-insights-dashboard) | [Live Demo](https://finance-insights-dashboard.vercel.app/)
+
+A SaaS-style financial analytics dashboard that transforms transaction data into actionable insights through derived metrics, role-based controls, and interactive visualizations.
+
+**Highlights:**
+- Multi-layout dashboard architecture with Overview, Transactions, and Insights modules
+- Role-based access control with admin-only CRUD and viewer read-only mode
+- Derived analytics engine for KPI aggregation, trend analysis, and spending behavior insights
+- Interactive charts and financial visualizations built with Recharts
+- Dark mode, responsive mobile drawer navigation, and accessibility-focused UX refinements
+
+**Tech Stack:** React.js, Vite, JavaScript, Recharts, Lucide React, CSS
+
+---
+
 ### 🕒 [React Time Tools](https://github.com/sushantshinde7/react-time-tools) | [Live Demo](https://react-time-tools.vercel.app/)
 
 A production-ready **time management web app** built with **React + Vite**, featuring alarms, timers, stopwatch, and world clocks with persistent settings.
@@ -82,21 +97,6 @@ A clean, theme-rich, offline-ready to-do app built using modular JavaScript arch
 
 ---
 
-### 💼 [Personal Portfolio](https://github.com/sushantshinde7/sushant-portfolio) | [Live Demo](https://sushantdev.vercel.app/)
-
-A personal portfolio website built using **React and Vite**, structured to present profile information, skills, downloadable Resume and project work through modular UI components and clean layouts.
-
-**Highlights:**
-- Component-based architecture with reusable, well-structured sections
-- Smooth micro-interactions and subtle animations powered by Framer Motion
-- Custom charcoal-based dark theme with strict opaque card design system
-- Clean visual hierarchy with intentional spacing and typography scaling
-- Fully responsive layout optimized for mobile, tablet, and desktop
-
-**Tech Stack:** React.js, Vite, CSS, Lucide Icons, Framer motion
-
----
-
 ### 📺 [Netflix Clone](https://github.com/sushantshinde7/netflix-clone-react-firebase) | [Live Demo](https://my-netflix-clone-react.vercel.app/)
 
 A Netflix-inspired streaming UI demonstrating authentication, routing, and dynamic content loading.
@@ -112,20 +112,22 @@ A Netflix-inspired streaming UI demonstrating authentication, routing, and dynam
 
 ---
 
-### ⛅ [Weather App](https://github.com/sushantshinde7/Weather-App) | [Live Demo](https://sushantshinde7.github.io/Weather-App/)
+### 💼 [Personal Portfolio](https://github.com/sushantshinde7/sushant-portfolio) | [Live Demo](https://sushantdev.vercel.app/)
 
-A simple and responsive weather dashboard providing real-time climate updates.
+A personal portfolio website built using **React and Vite**, structured to present profile information, skills, downloadable Resume and project work through modular UI components and clean layouts.
 
 **Highlights:**
-- Real-time weather data fetching using OpenWeatherMap API
-- Clean async handling with proper error states and input validation
-- Dynamic UI updates based on weather conditions
-- Responsive layout optimized for mobile-first usage
-- Lightweight architecture with clear separation of logic and UI
+- Component-based architecture with reusable, well-structured sections
+- Smooth micro-interactions and subtle animations powered by Framer Motion
+- Custom charcoal-based dark theme with strict opaque card design system
+- Clean visual hierarchy with intentional spacing and typography scaling
+- Fully responsive layout optimized for mobile, tablet, and desktop
 
-**Tech Stack:** JavaScript, HTML5, CSS3, OpenWeatherMap API, Fetch API
+**Tech Stack:** React.js, Vite, CSS, Lucide Icons, Framer motion
 
 ---
+
+
 
 
 
