@@ -37,7 +37,7 @@ I build user-friendly, accessible, and performance-driven web experiences, trans
 ![npm](https://img.shields.io/badge/npm-3A1F1F?logo=npm&logoColor=CB3837)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-0E4F4F?logo=netlify&logoColor=00C7B7)
-![Figma](https://img.shields.io/badge/Figma-2C2C2C?logo=figma&logoColor=F24E1E)
+![Figma](https://img.shields.io/badge/Figma-2C2C2C?logo=figma&logoColor=F2441E)
 
 ### 🌱 Currently - exploring
 
