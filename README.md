@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm [Sushant Shinde](https://github.com/sushantshinde7)
-⚡ Strong focus on UI architecture, performance optimization, and scalable components design.
+⚡ Strong focus on UI architecture, performance optimization, and scalable component design.
 
 
 🎓       **Computer Engineering Graduate** (2022) — University of Mumbai.
