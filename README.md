@@ -4,7 +4,7 @@
 
 🎓       **Computer Engineering Graduate** (2022) — University of Mumbai.
  **Front-End Developer specializing** in React, JavaScript, and modern UI development.
-I build user-friendly, accessible, and performance-driven web experiences, transforming design ideas into smooth, interactive, and responsive interfaces using React, JavaScript, and CSS. I continuously refine my Skills by adopting modern tools, improving UX patterns, and optimizing front-end performance.
+I build user-friendly, accessible, and performance-driven web experiences, transforming design ideas into smooth, interactive, and responsive interfaces using React, component styles, JavaScript, and CSS. I continuously refine my Skills by adopting modern tools, improving UX patterns, and optimizing front-end performance.
 
 ---
 
