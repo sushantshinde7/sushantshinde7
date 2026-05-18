@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=140&section=header&text=Sushant%20Shinde&fontSize=42&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-# Sushant Shinde
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%C2%B7+JavaScript+%C2%B7+UI+Architecture;Building+scalable+web+experiences;" alt="Typing SVG" />
 
-**Front-End Developer · React · JavaScript · UI Architecture**
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushantshinde7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sushantdev.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sushantshinde7)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sushantshinde2024@gmail.com)
 
+
+
 ![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-Front--End_%7C_React_Developer-2ea44f?style=for-the-badge)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 👋 About Me
 
@@ -29,7 +31,15 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 - 💬 Ask me about React architecture, responsive UI, or deploying with Vercel/Netlify
 - 📍 Based in Mumbai, Maharashtra, India
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🔨 What I'm Currently Building
+
+- 🧩 **Finance Insights Dashboard** — Iterating on analytics depth, refining role-based UX, and pushing toward a more production-grade data visualization layer
+- 📋 **PWA Task App** — An offline-first task manager built in vanilla JS; exploring service workers, cache strategies, and clean architecture without framework overhead
+- 📚 **MERN & React Ecosystem** — Working through Node.js, Express, MongoDB, and deeper React patterns — performance optimization, state architecture, and REST API design
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -67,7 +77,7 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e2a3a?logo=typescript&logoColor=3178C6&style=flat)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?logo=next.js&logoColor=white&style=flat)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌟 Featured Projects
 
@@ -139,7 +149,7 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 - Fully responsive across mobile, tablet, and desktop
 - Built with **React.js · Vite · Framer Motion · Lucide Icons · CSS**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎓 Certifications
 
@@ -149,7 +159,7 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 | [Programming with JavaScript](https://coursera.org/verify/Z6JUG8EV838Q) | Meta (Coursera) | JS Fundamentals · DOM · ES6 · Functions |
 | [Software Dev Job Simulation](https://www.theforage.com/) | Datacom (Forage) | Software Development · Version Control |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Goals for 2026
 
@@ -158,32 +168,62 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 - 💼 Land a full-time role as a Front-End / React Developer
 - ✍️ Start writing technical blogs and dev tutorials
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushantshinde7&show_icons=true&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantshinde7&layout=compact&theme=ocean_dark&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sushantshinde7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantshinde7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushantshinde7&theme=ocean_dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantshinde7&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushantshinde7&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌏 Beyond the Code
+
+- 🗣️ **Languages:** English · Marathi · Hindi
+- 🎨 I care deeply about design details — spacing, typography, and motion aren't afterthoughts
+- 🧩 I enjoy breaking down UI problems into reusable, composable pieces
+- 📖 Always reading — currently exploring system design fundamentals and frontend architecture patterns
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Connect
 
-I'm actively looking for front-end / React developer roles. If you're hiring or just want to connect, feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushantshinde7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sushantdev.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sushantshinde2024@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_sushantshinde/)
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer"/>
+
+**I'm actively looking for front-end / React developer roles.**
+If you're hiring or just want to talk craft, feel free to reach out.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushantshinde7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sushantdev.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantshinde2024@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sushantshinde/)
+
+<br/><br/>
+
+*"Good UI is invisible. Great UI is unforgettable."*
+
+<br/>
+
 </div>
 
 
