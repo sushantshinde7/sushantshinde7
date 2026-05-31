@@ -149,6 +149,10 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 - Fully responsive across mobile, tablet, and desktop
 - Built with **React.js · Vite · Framer Motion · Lucide Icons · CSS**
 
+## 🚀 ongoing project
+🧩 **Finance Insights Dashboard**
+💼 **Js INTERVIEW PREP (REACT) WEB APP**
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎓 Certifications
