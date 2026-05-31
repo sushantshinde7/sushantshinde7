@@ -81,6 +81,22 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 
 ## 🌟 Featured Projects
 
+---
+
+### 🎯 JS Interview Prep
+> Interactive React-based interview preparation platform focused on JavaScript concepts, coding questions, theory revision, and structured learning
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat&logo=vercel&logoColor=white)](https://YOUR-LIVE-LINK)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white)](https://github.com/sushantshinde7/js-interview-prep)
+
+- Structured learning paths covering JavaScript fundamentals, advanced concepts, browser APIs, and interview-focused topics
+- Interactive coding challenges with categorized questions, difficulty levels, and solution explanations
+- Powerful search, filtering, bookmarking, and progress tracking for efficient revision
+- Clean content management architecture supporting scalable addition of interview questions and learning resources
+- Responsive UI optimized for both focused study sessions and quick interview revision
+- Built with **React.js · Vite · Context API · JavaScript · CSS Modules**
+
+
 ### 📊 Finance Insights Dashboard
 > SaaS-style financial analytics platform with role-based access and interactive visualizations
 
