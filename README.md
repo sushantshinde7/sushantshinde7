@@ -31,6 +31,9 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 - 💬 Ask me about React architecture, responsive UI, or deploying with Vercel/Netlify
 - 📍 Based in Mumbai, Maharashtra, India
 
+  
+> I write clean, component-driven code, readable by teammates, maintainable at scale.
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🔧 What I'm Shipping Next
