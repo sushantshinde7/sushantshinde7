@@ -86,7 +86,7 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 ### 🎯 JS Interview Prep
 > Interactive React-based interview preparation platform focused on JavaScript concepts, coding questions, theory revision, and structured learning
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat&logo=vercel&logoColor=white)](https://YOUR-LIVE-LINK)
+
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white)](https://github.com/sushantshinde7/js-interview-prep)
 
 - Structured learning paths covering JavaScript fundamentals, advanced concepts, browser APIs, and interview-focused topics
