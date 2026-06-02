@@ -33,11 +33,11 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔨 What I'm Currently Building
+## 🔧 What I'm Shipping Next
 
 - 🧩 **Finance Insights Dashboard** — Iterating on analytics depth, refining role-based UX, and pushing toward a more production-grade data visualization layer
 - 📋 **PWA Task App** — An offline-first task manager built in vanilla JS; exploring service workers, cache strategies, and clean architecture without framework overhead
-- 📚 **MERN & React Ecosystem** — Working through Node.js, Express, MongoDB, and deeper React patterns — performance optimization, state architecture, and REST API design
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
