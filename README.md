@@ -240,7 +240,7 @@ If you're hiring or just want to talk craft, feel free to reach out.
 
 <br/><br/>
 
-*"Good UI is invisible. Great UI is unforgettable."*
+*"Good UI is invisible && Great UI is unforgettable."*
 
 <br/>
 
