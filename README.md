@@ -99,6 +99,7 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 - Responsive UI optimized for both focused study sessions and quick interview revision
 - Built with **React.js · Vite · Context API · JavaScript · CSS Modules**
 
+---
 
 ### 📊 Finance Insights Dashboard
 > SaaS-style financial analytics platform with role-based access and interactive visualizations
