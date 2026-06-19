@@ -84,7 +84,7 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 
 ## 🌟 Featured Projects
 
----
+
 
 ### 🎯 JS Interview Prep
 > Interactive React-based interview preparation platform focused on JavaScript concepts, coding questions, theory revision, and structured learning
