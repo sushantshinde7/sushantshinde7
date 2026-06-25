@@ -38,7 +38,7 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 
 ## 🔧 What I'm Shipping Next
 
-- 🧩 **Finance Insights Dashboard** — Iterating on analytics depth, refining role-based UX, and pushing toward a more production-grade data visualization layer
+- 🧩 **Finance Insights Dashboard** — Iterating on analytics depth, refining role-based UX, and pushing toward a more production-grade data visualization layer, to a Open-source personal finance tool.
 - 📋 **PWA Task App** — An offline-first task manager built in vanilla JS; exploring service workers, cache strategies, and clean architecture without framework overhead
 
 
