@@ -101,17 +101,18 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 
 ---
 
-### 📊 Finance Insights Dashboard
-> SaaS-style financial analytics platform with role-based access and interactive visualizations
+### 📊 Finsights
+> Personal finance management and financial analytics application with authentication, transaction management, and interactive data visualizations
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat&logo=vercel&logoColor=white)](https://finance-insights-dashboard.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white)](https://github.com/sushantshinde7/finance-insights-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat&logo=vercel&logoColor=white)](https://finsights-web.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white)](https://github.com/sushantshinde7/finsights)
 
-- Multi-layout dashboard with Overview, Transactions, and Insights modules
-- Role-based access control — admins get full CRUD, viewers get read-only access
-- Custom analytics engine for KPI aggregation, trend analysis, and spending insights
-- Dark mode, responsive mobile navigation drawer, and accessibility-focused UX
-- Built with **React.js · Vite · Recharts · Lucide React · CSS**
+- Authentication system with Email/Password login, Google Sign-In, protected routes, and guest access flows
+- Transaction management with CRUD operations, search, sorting, pagination, advanced filtering, and sample datasets
+- Financial dashboards featuring KPI tracking, balance trends, expense breakdowns, and interactive visualizations
+- Insights module powered by a custom analytics engine for trend analysis, spending behavior detection, and category insights
+- Responsive UI with dark mode, mobile navigation drawer, loading states, error boundaries, and accessibility improvements
+- Built with **React.js · Vite · Firebase Authentication · React Router · Recharts · Context API · Lucide React · CSS**
 
 ---
 
