@@ -38,8 +38,9 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 
 ## 🔧 What I'm Shipping Next
 
-- 🧩 **Finance Insights Dashboard (Finsights)** — Iterating on analytics depth, refining role-based UX, and pushing toward a more production-grade data visualization layer, to a Open-source personal finance tool.
+- 📊 **Finsights** — Expanding a React-based personal finance platform with authentication, analytics, transaction workflows, data persistence, and future full-stack capabilities.
 - 📋 **PWA Task App** — An offline-first task manager built in vanilla JS; exploring service workers, cache strategies, and clean architecture without framework overhead
+- 🚀 **Full-Stack Learning Journey** — Applying Node.js, Express.js, MongoDB, and API design concepts through real projects and production-style architecture patterns.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -56,6 +57,8 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white&style=flat)
+![Context API](https://img.shields.io/badge/Context_API-20232A?logo=react&logoColor=61DAFB&style=flat)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F4C5C?logo=tailwindcss&logoColor=38BDF8&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-3B2F63?logo=bootstrap&logoColor=white&style=flat)
@@ -107,13 +110,12 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat&logo=vercel&logoColor=white)](https://finsights-web.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white)](https://github.com/sushantshinde7/finsights)
 
-- Authentication system with Email/Password login, Google Sign-In, protected routes, and guest access flows
-- Transaction management with CRUD operations, search, sorting, pagination, advanced filtering, and sample datasets
-- Financial dashboards featuring KPI tracking, balance trends, expense breakdowns, and interactive visualizations
-- Insights module powered by a custom analytics engine for trend analysis, spending behavior detection, and category insights
-- Responsive UI with dark mode, mobile navigation drawer, loading states, error boundaries, and accessibility improvements
-- Built with **React.js · Vite · Firebase Authentication · React Router · Recharts · Context API · Lucide React · CSS**
-
+- Firebase Authentication with Email/Password, Google Sign-In, session persistence, and protected routing
+- Guest and authenticated user experiences with route guards, permission-aware UI, and authentication prompts
+- Advanced transaction management featuring CRUD operations, search, filtering, sorting, pagination, dataset switching, and state persistence
+- Financial analytics engine generating KPI metrics, category breakdowns, balance trends, month-over-month comparisons, and spending insights
+- Responsive dashboard architecture with reusable components, error boundaries, loading states, dark mode, and backend-ready service layers
+- Built with **React 19 · Vite · React Router · Firebase · Context API · Recharts · Lucide React · CSS**
 ---
 
 ### 🕒 React Time Tools
