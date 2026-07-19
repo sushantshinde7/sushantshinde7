@@ -38,7 +38,7 @@ I specialize in translating design ideas into smooth, accessible, and performanc
 
 ## 🔧 What I'm Shipping Next
 
-- 📊 **Finsights** — Expanding a React-based personal finance platform with authentication, analytics, transaction workflows, data persistence, and future full-stack capabilities.
+- 📊 **Finsights** — Expanding a React-based personal finance platform with authentication, analytics, transaction workflows, data persistence, and future full-stack capabilities like importing/ exporting data.
 - 📋 **PWA Task App** — An offline-first task manager built in vanilla JS; exploring service workers, cache strategies, and clean architecture without framework overhead
 - 🚀 **Full-Stack Learning Journey** — Applying Node.js, Express.js, MongoDB, and API design concepts through real projects and production-style architecture patterns.
 
