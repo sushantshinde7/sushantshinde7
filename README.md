@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-I'm a **Computer Engineering graduate (2022, University of Mumbai)** and a self-driven Front-End Developer with a strong focus on **React, JavaScript, and scalable UI architecture**.
+I'm a **Computer Engineering graduate (2022, University of Mumbai)** and a self-driven Front-End Developer with a strong focus on **React, JavaScript, and scalable UI architectures**.
 
 I specialize in translating design ideas into smooth, accessible, and performance-driven web experiences — paying close attention to component structure, interaction design, and clean code organization. I continuously sharpen my skills by building real projects, adopting modern tooling, and learning in public.
 
